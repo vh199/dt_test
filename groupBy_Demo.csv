@@ -1,0 +1,16 @@
+﻿id,city,season,date,player_of_match,venue,team1,team2,toss_winner,toss_decision,winner,wins,wonby,result_margin,umpire1,umpire2
+1,Hyderabad,2020,9/19/2020,DA Warner,Sheikh Zayed Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,1,10,Runs,AY Dandekar,NJ Llong
+2,Dubai,2020,9/20/2020,KA Pollard,Dubai International Cricket Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,1,6,Wickets,M Erasmus,S Ravi
+3,Sharjah,2020,9/21/2020,S Dhawan,Sharjah Cricket Stadium,Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,bat,Kings XI Punjab,1,97,Runs,CB Gaffaney,M Erasmus
+4,Abu Dhabi,2020,9/22/2020,SV Samson,Sheikh Zayed Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,1,37,Runs,C Shamshuddin,S Ravi
+5,Dubai,2020,9/23/2020,KA Pollard,Dubai International Cricket Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,1,16,Runs,AY Dandekar,M Erasmus
+6,Abu Dhabi,2021,9/15/2021,MS Dhoni,Sheikh Zayed Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,1,8,Wickets,KN Ananthapadmanabhan,K Srinivasan
+7,Kolkata,2021,9/16/2021,JL Pattinson,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,2,Wickets,YC Barde,S Ravi
+8,Mumbai,2021,9/17/2021,JJ Bumrah,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,1,57,Runs,AY Dandekar,M Erasmus
+9,Chennai,2021,9/18/2021,F du Plessis,MA Chidambaram Stadium,Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,bat,Chennai Super Kings,1,6,Wickets,YC Barde,KN Ananthapadmanabhan
+10,Delhi,2021,9/19/2021,S Dhawan,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,1,13,Runs,S Ravi,KN Ananthapadmanabhan
+11,Bangalore,2022,3/10/2022,RG Sharma,M Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,1,7,Wickets,CB Gaffaney,M Erasmus
+12,Chennai,2022,3/11/2022,JC Archer,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,1,3,Wickets,KN Ananthapadmanabhan,S Ravi
+13,Mumbai,2022,3/12/2022,RA Jadeja,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,1,2,Wickets,AY Dandekar,CB Gaffaney
+14,Kolkata,2022,3/13/2022,CH Morris,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,1,16,Runs,S Ravi,M Erasmus
+15,Hyderabad,2022,3/14/2022,JC Archer,"Rajiv Gandhi International Stadium, Uppal",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab,1,4,Wickets,KN Ananthapadmanabhan,CB Gaffaney
